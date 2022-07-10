@@ -1,0 +1,40 @@
+body {
+    background-color: #383838;
+    text-align: center;
+    
+}
+
+h1 {
+    color: white;
+    padding: 20px;
+    padding-bottom: 20px;
+    font-size: 50px;
+}
+
+.dice-container {
+    display: flex;
+    justify-content: center;
+}
+
+.dice-1 img {
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+.dice-2 img {
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+button {
+    width: 200px;
+    height: 75px;
+    background-color: limegreen;
+    margin-top: 40px;
+}
+
+.tracker-con {
+    color: white;
+}
